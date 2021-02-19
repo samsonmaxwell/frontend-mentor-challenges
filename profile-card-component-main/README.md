@@ -59,6 +59,9 @@ There are multiple places you can share your solution:
 
 ## Giving feedback
 
+![favicon-32x32](https://user-images.githubusercontent.com/56031841/108457598-3cb17380-7273-11eb-9b46-cb1739ad4709.png)
+![image-victor](https://user-images.githubusercontent.com/56031841/108457608-3fac6400-7273-11eb-9c1e-71a940d0bfd4.jpg)
+
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
