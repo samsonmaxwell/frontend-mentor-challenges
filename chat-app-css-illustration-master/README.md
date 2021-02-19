@@ -55,6 +55,9 @@ As mentioned above, there are a number of ways to host your project for free. We
 3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
 
 ![avatar](https://user-images.githubusercontent.com/56031841/108455183-0e7d6500-726e-11eb-9250-bb403e44dd5c.jpg)
+![dog-image-1](https://user-images.githubusercontent.com/56031841/108455366-661bd080-726e-11eb-8fc8-f197cbba4b9c.jpg)
+![dog-image-2](https://user-images.githubusercontent.com/56031841/108455369-6916c100-726e-11eb-9fb5-ff1e15825db5.jpg)
+![dog-image-3](https://user-images.githubusercontent.com/56031841/108455376-6c11b180-726e-11eb-85b2-049cfbd93a65.jpg)
 
 ## Sharing your solution
 
