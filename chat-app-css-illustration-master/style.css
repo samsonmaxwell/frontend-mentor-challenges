@@ -44,7 +44,7 @@ body {
   width: 25em;
   border-top-left-radius: 20em;
   left: 71em;
-  top: -74em;
+  top: -68em;
 }
 
 @media screen and (max-width: 425px) {
@@ -76,7 +76,7 @@ body {
 .appIntro {
   display: block;
   position: relative;
-  top: -660px;
+  top: -600px;
 }
 
 @media screen and (max-width: 425px) {
@@ -91,13 +91,13 @@ body {
   width: 28%;
   float: right;
   position: relative;
-  left: -350px;
+  left: -260px;
   top: 220px;
   display: flex;
 }
 
 .lTab {
-  width: 19%;
+  width: 20%;
   display: flex;
   left: 340px;
   position: relative;
