@@ -131,6 +131,22 @@ body {
   }
 }
 
+.rTab {
+  width: 28%;
+  float: right;
+  position: relative;
+  left: -260px;
+  top: 220px;
+  display: flex;
+}
+
+.lTab {
+  width: 20%;
+  display: flex;
+  left: 340px;
+  position: relative;
+}
+
 @media screen and (max-width: 1440px) {
   .rTab {
     width: 28%;
