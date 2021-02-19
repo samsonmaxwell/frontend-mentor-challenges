@@ -37,6 +37,40 @@ body {
     border-bottom-left-radius: 20em;
     border-bottom-right-radius: 20em;
   }
+
+  .bgRight {
+    position: relative;
+    background-color: hsla(264.1, 100%, 61%, 0.04);
+    height: 45em;
+    width: 25em;
+    border-top-left-radius: 20em;
+    left: 71em;
+    top: -68em;
+  }
+}
+
+.bgLeft {
+  height: 43em;
+  width: 27em;
+  position: relative;
+  background-color: hsl(264, 100%, 61%);
+  background-image: linear-gradient(
+    to top right,
+    hsl(264, 100%, 61%),
+    hsl(293, 100%, 63%)
+  );
+  border-bottom-left-radius: 20em;
+  border-bottom-right-radius: 20em;
+}
+
+.bgRight {
+  position: relative;
+  background-color: hsla(264.1, 100%, 61%, 0.04);
+  height: 45em;
+  width: 25em;
+  border-top-left-radius: 20em;
+  left: 71em;
+  top: -68em;
 }
 
 .bgRight {
@@ -73,6 +107,12 @@ body {
     left: 10em;
     top: -46em;
   }
+}
+
+.appIntro {
+  display: block;
+  position: relative;
+  top: -600px;
 }
 
 @media screen and (max-width: 1440px) {
