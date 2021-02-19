@@ -1,0 +1,161 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+  font-family: "Kumbh Sans", sans-serif;
+  overflow: hidden;
+}
+
+.bgTL {
+  height: 28em;
+  width: 50em;
+  position: relative;
+  background-color: hsl(185, 75%, 39%);
+  background-image: linear-gradient(
+    to top right,
+    hsl(185, 75%, 39%),
+    hsl(184.7, 46.6%, 48.4%)
+  );
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 50em;
+  top: -1em;
+  left: -1em;
+}
+
+.bgBR {
+  position: relative;
+  background-color: hsl(184.7, 46.6%, 48.4%);
+  height: 28em;
+  width: 55em;
+  border-top-left-radius: 100em;
+  left: 50em;
+  top: 0em;
+  border-top-right-radius: 100em;
+}
+
+@media screen and (max-width: 425px) {
+  .bgTL {
+    height: 22em;
+    width: 15em;
+    position: relative;
+    background-color: hsl(185, 75%, 39%);
+    background-image: linear-gradient(
+      to top right,
+      hsl(185, 75%, 39%),
+      hsl(184.7, 46.6%, 48.4%)
+    );
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 20em;
+  }
+
+  .bgBR {
+    position: relative;
+    background-color: hsl(184.7, 46.6%, 48.4%);
+    height: 35em;
+    width: 15em;
+    border-top-left-radius: 20em;
+    border-top-right-radius: 0em;
+    left: 10em;
+    top: 15em;
+  }
+}
+
+.cardBG {
+  position: relative;
+  top: -28em;
+}
+
+@media screen and (max-width: 425px) {
+  .cardBG {
+    position: relative;
+    top: -48em;
+  }
+}
+
+.card {
+  max-width: 400px;
+  margin: 50px auto 50px;
+  text-align: center;
+  background: #fff;
+  border-radius: 10px;
+  font-size: 18px;
+  box-sizing: border-box;
+  position: relative;
+  top: -20em;
+}
+
+@media screen and (max-width: 425px) {
+  .card {
+    top: 0em;
+    position: relative;
+  }
+}
+
+.topSec {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: 0;
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+
+.maintab {
+  top: -60px;
+  position: relative;
+}
+
+.mainImg {
+  border-radius: 50%;
+  border: 5px solid #fff;
+}
+
+hr {
+  color: hsl(0, 0%, 59%);
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-flex;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  cursor: pointer;
+  width: 80%;
+  font-family: "Kumbh Sans", sans-serif;
+  margin: 10px auto;
+  padding: 15px 0;
+}
+
+button a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+  color: #4f4a4a;
+  width: 50%;
+}
+
+.btnStats {
+  font-weight: 400;
+  font-size: 16px;
+  color: hsl(0, 0%, 59%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+  top: -25em;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 425px) {
+  .attribution {
+    position: relative;
+    top: 15em;
+  }
+}
