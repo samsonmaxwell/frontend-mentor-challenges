@@ -23,18 +23,20 @@ body {
   }
 }
 
-.bgLeft {
-  height: 43em;
-  width: 27em;
-  position: relative;
-  background-color: hsl(264, 100%, 61%);
-  background-image: linear-gradient(
-    to top right,
-    hsl(264, 100%, 61%),
-    hsl(293, 100%, 63%)
-  );
-  border-bottom-left-radius: 20em;
-  border-bottom-right-radius: 20em;
+@media screen and (max-width: 1440px) {
+  .bgLeft {
+    height: 43em;
+    width: 27em;
+    position: relative;
+    background-color: hsl(264, 100%, 61%);
+    background-image: linear-gradient(
+      to top right,
+      hsl(264, 100%, 61%),
+      hsl(293, 100%, 63%)
+    );
+    border-bottom-left-radius: 20em;
+    border-bottom-right-radius: 20em;
+  }
 }
 
 .bgRight {
@@ -73,10 +75,12 @@ body {
   }
 }
 
-.appIntro {
-  display: block;
-  position: relative;
-  top: -600px;
+@media screen and (max-width: 1440px) {
+  .appIntro {
+    display: block;
+    position: relative;
+    top: -600px;
+  }
 }
 
 @media screen and (max-width: 425px) {
@@ -87,20 +91,22 @@ body {
   }
 }
 
-.rTab {
-  width: 28%;
-  float: right;
-  position: relative;
-  left: -260px;
-  top: 220px;
-  display: flex;
-}
+@media screen and (max-width: 1440px) {
+  .rTab {
+    width: 28%;
+    float: right;
+    position: relative;
+    left: -260px;
+    top: 220px;
+    display: flex;
+  }
 
-.lTab {
-  width: 20%;
-  display: flex;
-  left: 340px;
-  position: relative;
+  .lTab {
+    width: 20%;
+    display: flex;
+    left: 340px;
+    position: relative;
+  }
 }
 
 @media screen and (max-width: 425px) {
