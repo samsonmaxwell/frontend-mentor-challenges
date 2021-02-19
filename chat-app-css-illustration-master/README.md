@@ -58,6 +58,8 @@ As mentioned above, there are a number of ways to host your project for free. We
 ![dog-image-1](https://user-images.githubusercontent.com/56031841/108455366-661bd080-726e-11eb-8fc8-f197cbba4b9c.jpg)
 ![dog-image-2](https://user-images.githubusercontent.com/56031841/108455369-6916c100-726e-11eb-9fb5-ff1e15825db5.jpg)
 ![dog-image-3](https://user-images.githubusercontent.com/56031841/108455376-6c11b180-726e-11eb-85b2-049cfbd93a65.jpg)
+![favicon-32x32](https://user-images.githubusercontent.com/56031841/108456043-b0518180-726f-11eb-88cc-e89617d76298.png)
+-11eb-85b2-049cfbd93a65.jpg)
 
 ## Sharing your solution
 
