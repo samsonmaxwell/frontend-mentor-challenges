@@ -8,21 +8,17 @@ body {
   height: 28em;
   width: 50em;
   position: relative;
-  background-color: hsl(185, 75%, 39%);
-  background-image: linear-gradient(
-    to top right,
-    hsl(185, 75%, 39%),
-    hsl(184.7, 46.6%, 48.4%)
-  );
+  background-image: url(images/bg-pattern-top.svg);
+  transform: rotate(6deg);
+  top: -10em;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 50em;
-  top: -1em;
   left: -1em;
 }
 
 .bgBR {
   position: relative;
-  background-color: hsl(184.7, 46.6%, 48.4%);
+  background-image: url(images/bg-pattern-bottom.svg);
   height: 28em;
   width: 55em;
   border-top-left-radius: 100em;
@@ -36,19 +32,16 @@ body {
     height: 22em;
     width: 15em;
     position: relative;
-    background-color: hsl(185, 75%, 39%);
-    background-image: linear-gradient(
-      to top right,
-      hsl(185, 75%, 39%),
-      hsl(184.7, 46.6%, 48.4%)
-    );
+    background-image: url(images/bg-pattern-top.svg);
+    transform: rotate(6deg);
+    top: -10em;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 20em;
   }
 
   .bgBR {
     position: relative;
-    background-color: hsl(184.7, 46.6%, 48.4%);
+    background-image: url(images/bg-pattern-bottom.svg);
     height: 35em;
     width: 15em;
     border-top-left-radius: 20em;
