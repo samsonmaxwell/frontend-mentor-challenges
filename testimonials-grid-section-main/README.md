@@ -61,6 +61,13 @@ There are multiple places you can share your solution:
 2. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
 3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
+![image-daniel](https://user-images.githubusercontent.com/56031841/108622583-168a0000-743a-11eb-8d76-18955586ea44.jpg)
+![image-jeanette](https://user-images.githubusercontent.com/56031841/108622587-20136800-743a-11eb-8d10-28c1096b842b.jpg)
+![image-jonathan](https://user-images.githubusercontent.com/56031841/108622599-2c97c080-743a-11eb-9936-56ed2cc73386.jpg)
+![image-kira](https://user-images.githubusercontent.com/56031841/108622605-37eaec00-743a-11eb-840e-e35d14ee2186.jpg)
+![image-patrick](https://user-images.githubusercontent.com/56031841/108622608-42a58100-743a-11eb-8b56-e384b6fd8200.jpg)
+![favicon-32x32](https://user-images.githubusercontent.com/56031841/108622624-5650e780-743a-11eb-8be7-86589357f2f1.png)
+
 ## Giving feedback
 
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
